@@ -41,11 +41,7 @@ body{
     background-color: var(--white);
 }
 
-.carcass-cont{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-}
+
 
 /* ---------------------------Header--------------------------- */
 .hat{
@@ -746,3 +742,27 @@ main{
 .submit-btn:hover, .submit-btn:focus{
     background-color: var(--ocean);
 }
+
+
+/*============================ MEDIA TABLET ============================*/
+@media screen and (max-width: 320px){
+    body{
+        max-width: 320px;
+    }
+    /*--------- hat section ---------*/
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
